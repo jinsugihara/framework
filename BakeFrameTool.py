@@ -1,4 +1,13 @@
 # -*- coding: utf-8 -*-
+
+"""
+"Paste the following line into Maya Python."
+
+import BakeFrameTool
+bake_frame_tool.show()
+
+"""
+
 from PySide2 import QtWidgets, QtCore
 import maya.cmds as cmds
 import shiboken2
