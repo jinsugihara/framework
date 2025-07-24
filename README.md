@@ -18,4 +18,9 @@ mayaの呼び出しコマンド↓
 import BakeFrameTool <br> 
 bake_frame_tool.show()
 ```
+
+***DEMO:***
+
+![demo](https://user.images......gif](https://drive.google.com/file/d/1IFeImlQh2mh73GlrRvur6K9lLqRfUaLI/view?usp=sharing))
+
 _______________________
