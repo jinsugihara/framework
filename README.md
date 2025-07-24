@@ -19,8 +19,8 @@ import BakeFrameTool <br>
 bake_frame_tool.show()
 ```
 
-***DEMO:***
 
-![demo](https://user.images......gif](https://drive.google.com/file/d/1IFeImlQh2mh73GlrRvur6K9lLqRfUaLI/view?usp=sharing))
+https://github.com/user-attachments/assets/21066fdd-d6f7-40cf-8139-82f10ca16fc0
+
 
 _______________________
