@@ -15,7 +15,7 @@ maya関連における便利スクリプトを公開
 "Paste the following line into Maya Python."
 mayaの呼び出しコマンド↓
 _______________________
-import BakeFrameTool
+import BakeFrameTool(br)
 bake_frame_tool.show()
 _______________________
 
