@@ -15,7 +15,7 @@ _______________________
 "Paste the following line into Maya Python." <br> 
 mayaの呼び出しコマンド↓
 ```
-import BakeFrameTool <br> 
+import BakeFrameTool
 bake_frame_tool.show()
 ```
 
